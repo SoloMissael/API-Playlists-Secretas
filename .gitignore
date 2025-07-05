@@ -6,6 +6,7 @@ node_modules/
 
 # Carpeta de uploads (si tienes archivos subidos localmente)
 uploads/
+images/
 
 # Logs
 *.log
